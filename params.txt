@@ -1,0 +1,8 @@
+{"Authorization-Key": "9MbHa87/i38Y36f7BjnF/HnyPGEsOUWXJdInME0B99E=",
+ "search_url": "https://data.usajobs.gov/api/search?",
+ "code_list_url": "https://data.usajobs.gov/api/codelist/",
+ "job_category": "https://data.usajobs.gov/api/codelist/occupationalseries",
+ "organization_param": "https://data.usajobs.gov/api/codelist/agencysubelements",
+ "rate_interval": "https://data.usajobs.gov/api/codelist/remunerationrateintervalcodes", 
+ "ResultsPerPage": 2,
+ "recp_email": "sepideh.ha@gmail.com"}
